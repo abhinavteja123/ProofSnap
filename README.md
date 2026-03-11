@@ -45,9 +45,9 @@
 - [License](#-license)
 
 ---
-PROJECT LINK :- https://devfolio.co/projects/proofsnap-ef2b
-APP Link : https://drive.google.com/file/d/1CUZ1MKIMmI70ugoxJvDNGFyOzJV6auPd/view?usp=drive_link
-## 🔴 The Problem
+**PROJECT LINK :- https://devfolio.co/projects/proofsnap-ef2b
+**APP Link : https://drive.google.com/file/d/1CUZ1MKIMmI70ugoxJvDNGFyOzJV6auPd/view?usp=**drive_link
+##** 🔴 The Problem
 
 Anyone with a laptop can generate a hyper-realistic photo that never happened. Deepfakes are being used to spread misinformation, fabricate evidence, and erode trust in digital media. When someone shows you a photo, **how do you prove it's real?**
 
